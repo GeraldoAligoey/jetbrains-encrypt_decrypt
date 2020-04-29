@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Encryption-Decryption.iml" filepath="$PROJECT_DIR$/.idea/modules/Encryption-Decryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Encryption-Decryption/task/Encryption-Decryption.Encryption-Decryption-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Encryption-Decryption/task/Encryption-Decryption.Encryption-Decryption-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Encryption-Decryption.Problems-Initializing_an_array_of_integers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of integers/Encryption-Decryption.Problems-Initializing_an_array_of_integers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Encryption-Decryption.Problems-Initializing_an_array_of_longs.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Encryption-Decryption.Problems-Initializing_an_array_of_longs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (10)/Account/Encryption-Decryption.Problems__10_-Account.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (10)/Account/Encryption-Decryption.Problems__10_-Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (11)/Getting the fullname/Encryption-Decryption.Problems__11_-Getting_the_fullname.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (11)/Getting the fullname/Encryption-Decryption.Problems__11_-Getting_the_fullname.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (12)/Reverse input text/Encryption-Decryption.Problems__12_-Reverse_input_text.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (12)/Reverse input text/Encryption-Decryption.Problems__12_-Reverse_input_text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (13)/Count words/Encryption-Decryption.Problems__13_-Count_words.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (13)/Count words/Encryption-Decryption.Problems__13_-Count_words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (14)/Count words/Encryption-Decryption.Problems__14_-Count_words.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (14)/Count words/Encryption-Decryption.Problems__14_-Count_words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (15)/Count words/Encryption-Decryption.Problems__15_-Count_words.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (15)/Count words/Encryption-Decryption.Problems__15_-Count_words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (1)/Printing strings in the same order/Encryption-Decryption.Problems__1_-Printing_strings_in_the_same_order.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (1)/Printing strings in the same order/Encryption-Decryption.Problems__1_-Printing_strings_in_the_same_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (2)/Hiring a chef/Encryption-Decryption.Problems__2_-Hiring_a_chef.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (2)/Hiring a chef/Encryption-Decryption.Problems__2_-Hiring_a_chef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (3)/Seven continents/Encryption-Decryption.Problems__3_-Seven_continents.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (3)/Seven continents/Encryption-Decryption.Problems__3_-Seven_continents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (4)/The number of tens/Encryption-Decryption.Problems__4_-The_number_of_tens.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (4)/The number of tens/Encryption-Decryption.Problems__4_-The_number_of_tens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (5)/Reversing input numbers/Encryption-Decryption.Problems__5_-Reversing_input_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (5)/Reversing input numbers/Encryption-Decryption.Problems__5_-Reversing_input_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (6)/Snail/Encryption-Decryption.Problems__6_-Snail.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (6)/Snail/Encryption-Decryption.Problems__6_-Snail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (7)/Is between/Encryption-Decryption.Problems__7_-Is_between.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (7)/Is between/Encryption-Decryption.Problems__7_-Is_between.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (8)/Binary search/Encryption-Decryption.Problems__8_-Binary_search.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (8)/Binary search/Encryption-Decryption.Problems__8_-Binary_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems (9)/Numbers divisible by six/Encryption-Decryption.Problems__9_-Numbers_divisible_by_six.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems (9)/Numbers divisible by six/Encryption-Decryption.Problems__9_-Numbers_divisible_by_six.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Encryption-Decryption.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Encryption-Decryption.util.iml" />
+    </modules>
+  </component>
+</project>
